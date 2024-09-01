@@ -17,3 +17,6 @@ echo "The SUM is $SUB"
 echo "The SUM is $MUL"
 echo "The SUM is $DIV"
 
+echo "calculator program"
+
+
